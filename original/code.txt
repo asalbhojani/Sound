@@ -1,0 +1,34 @@
+ if (  $num1 > 0) {
+       
+        while ($row1) {
+           $row[2];
+  }   
+    }
+
+    if (  $num2 > 0) {
+       
+        while ($row2) {
+            $row[2];
+  }   
+    }
+
+    if (  $num3 > 0) {
+       
+        while ($row3) {
+            $row[2];
+  }   
+    }
+
+    if (  $num4 > 0) {
+       
+        while ($row4) {
+            $row[2];
+  }   
+    }
+
+    if (  $num5 > 0) {
+       
+        while ($row5) {
+            $row[2];
+  }   
+    }
